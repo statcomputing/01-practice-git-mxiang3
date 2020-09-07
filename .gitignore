@@ -1,4 +1,4 @@
-output.o
-program.exe
+*.o
+*.exe
 *.jar
 libraries/
